@@ -1,1 +1,2 @@
-File is not empty
+File can never be empty
+
